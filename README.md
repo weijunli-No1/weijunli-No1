@@ -47,17 +47,17 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/weijunli-No1/weijunli-No1/main/assets/qr_shiguang.jpg" width="120" /><br>
+      <img src="https://raw.githubusercontent.com/weijunli-No1/weijunli-No1/main/images/miniprogram/gh_fdbf17a28bb7_258.jpg" width="120" /><br>
       <b>拾光小相 · Shiguang Photo</b><br>
       <sub>📷 微信小程序 · Mini Program</sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/weijunli-No1/weijunli-No1/main/assets/qr_haibin_mp.jpg" width="120" /><br>
+      <img src="https://raw.githubusercontent.com/weijunli-No1/weijunli-No1/main/images/miniprogram/gh_fbb4a1b0c613_258.jpg" width="120" /><br>
       <b>我的海滨 · My Haibin</b><br>
       <sub>📚 微信小程序 · Mini Program</sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/weijunli-No1/weijunli-No1/main/assets/qr_haibin_oa.jpg" width="120" /><br>
+      <img src="https://raw.githubusercontent.com/weijunli-No1/weijunli-No1/main/images/official-account/qrcode_for_gh_a771bb8f0853_344.jpg" width="120" /><br>
       <b>我的海滨 · My Haibin</b><br>
       <sub>📰 公众号 · Official Account</sub>
     </td>
